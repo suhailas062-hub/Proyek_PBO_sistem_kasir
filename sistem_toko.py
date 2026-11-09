@@ -36,3 +36,5 @@ class SistemToko:
         for idx, laptop in enumerate(self.daftar_laptop, start=1):
             print(f"No. {idx}")
             laptop.tampilkan_info()
+
+rahel 
