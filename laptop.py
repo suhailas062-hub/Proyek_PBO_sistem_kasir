@@ -21,3 +21,6 @@ class Laptop:
             self.stok -= jumlah
             return True
         return False
+
+
+suhaia
